@@ -1,0 +1,69 @@
+/Users/kevin/Projects/Mission2/Mission2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/kevin/Projects/Mission2/Mission2/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/kevin/Projects/Mission2/Mission2/bin/Debug/netcoreapp3.1/Mission2.deps.json
+/Users/kevin/Projects/Mission2/Mission2/bin/Debug/netcoreapp3.1/Mission2.runtimeconfig.json
+/Users/kevin/Projects/Mission2/Mission2/bin/Debug/netcoreapp3.1/Mission2.runtimeconfig.dev.json
+/Users/kevin/Projects/Mission2/Mission2/bin/Debug/netcoreapp3.1/Mission2.dll
+/Users/kevin/Projects/Mission2/Mission2/bin/Debug/netcoreapp3.1/Mission2.pdb
+/Users/kevin/Projects/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.csproj.AssemblyReference.cache
+/Users/kevin/Projects/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevin/Projects/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.AssemblyInfoInputs.cache
+/Users/kevin/Projects/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.AssemblyInfo.cs
+/Users/kevin/Projects/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.csproj.CoreCompileInputs.cache
+/Users/kevin/Projects/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.MvcApplicationPartsAssemblyInfo.cache
+/Users/kevin/Projects/Mission2/Mission2/obj/Debug/netcoreapp3.1/staticwebassets/Mission2.StaticWebAssets.Manifest.cache
+/Users/kevin/Projects/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.RazorTargetAssemblyInfo.cache
+/Users/kevin/Projects/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.dll
+/Users/kevin/Projects/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.pdb
+/Users/kevin/Projects/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.genruntimeconfig.cache
+/Users/kevin/Projects/Mission2 (original)/Mission2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/kevin/Projects/Mission2 (original)/Mission2/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/kevin/Projects/Mission2 (original)/Mission2/bin/Debug/netcoreapp3.1/Mission2.deps.json
+/Users/kevin/Projects/Mission2 (original)/Mission2/bin/Debug/netcoreapp3.1/Mission2.runtimeconfig.json
+/Users/kevin/Projects/Mission2 (original)/Mission2/bin/Debug/netcoreapp3.1/Mission2.runtimeconfig.dev.json
+/Users/kevin/Projects/Mission2 (original)/Mission2/bin/Debug/netcoreapp3.1/Mission2.dll
+/Users/kevin/Projects/Mission2 (original)/Mission2/bin/Debug/netcoreapp3.1/Mission2.pdb
+/Users/kevin/Projects/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Mission2.csproj.AssemblyReference.cache
+/Users/kevin/Projects/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Mission2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevin/Projects/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Mission2.AssemblyInfoInputs.cache
+/Users/kevin/Projects/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Mission2.AssemblyInfo.cs
+/Users/kevin/Projects/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Mission2.csproj.CoreCompileInputs.cache
+/Users/kevin/Projects/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Mission2.MvcApplicationPartsAssemblyInfo.cache
+/Users/kevin/Projects/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/staticwebassets/Mission2.StaticWebAssets.Manifest.cache
+/Users/kevin/Projects/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Mission2.RazorTargetAssemblyInfo.cache
+/Users/kevin/Projects/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Mission2.dll
+/Users/kevin/Projects/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Mission2.pdb
+/Users/kevin/Projects/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Mission2.genruntimeconfig.cache
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/bin/Debug/netcoreapp3.1/Mission2.deps.json
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/bin/Debug/netcoreapp3.1/Mission2.runtimeconfig.json
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/bin/Debug/netcoreapp3.1/Mission2.runtimeconfig.dev.json
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/bin/Debug/netcoreapp3.1/Mission2.dll
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/bin/Debug/netcoreapp3.1/Mission2.pdb
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Mission2.csproj.AssemblyReference.cache
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Mission2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Mission2.AssemblyInfoInputs.cache
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Mission2.AssemblyInfo.cs
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Mission2.csproj.CoreCompileInputs.cache
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Mission2.MvcApplicationPartsAssemblyInfo.cache
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/staticwebassets/Mission2.StaticWebAssets.Manifest.cache
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Mission2.RazorTargetAssemblyInfo.cache
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Mission2.dll
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Mission2.pdb
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Mission2.genruntimeconfig.cache
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/bin/Debug/netcoreapp3.1/Mission2.Views.dll
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/bin/Debug/netcoreapp3.1/Mission2.Views.pdb
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Mission2.RazorAssemblyInfo.cache
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Mission2.RazorAssemblyInfo.cs
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Mission2.TagHelpers.input.cache
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Mission2.TagHelpers.output.cache
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Mission2.RazorCoreGenerate.cache
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Razor/Views/newView/Index.cshtml.g.cs
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Mission2.RazorTargetAssemblyInfo.cs
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Mission2.Views.pdb
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Mission2.csproj.CopyComplete
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Razor/Views/shared/_Layout.cshtml.g.cs
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/kevin/Desktop/Winter 2022/IS 413/Mission2 (original)/Mission2/obj/Debug/netcoreapp3.1/Razor/Views/newView/Calculator.cshtml.g.cs
