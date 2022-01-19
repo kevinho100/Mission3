@@ -5,29 +5,32 @@
     ViewData["Title"] = "Grade Calculator";
 }
 
+@model CalculatorModel;
 <head>
     <title>@ViewData["Title"]</title>
 </head>
 <!-- A "Grade Calculator" form that takes as input a percentage scored for each grade
 category listed in the syllabus -->
 <h2 class="p-3 mb-2 bg-primary text-white"> Grade Calculator </h2>
-<form>
+<form method="post">
     <label>Enter your Assignments grade (e.g. 78):</label>
-    <input id="assignments" style="color:red; width:50px" required="" type="number" />
+    <input id="assignments" style="color:red; width:50px" required="" type="number" asp-for="assignments" />
     <br />
     <label>Enter your Group project grade (e.g. 78):</label>
-    <input id="group" style="color:red; width:50px" required=""  type="number"/>
+    <input id="group" style="color:red; width:50px" required=""  type="number" asp-for="group"/>
     <br />
     <label>Enter your Quizzes grade (e.g. 78):</label>
-    <input id="quizzes" style="color:red; width:50px" required="" type="number"/>
+    <input id="quizzes" style="color:red; width:50px" required="" type="number"asp-for="quizzes" />
     <br />
     <label>Enter your Exams grade (e.g. 78):</label>
-    <input id="exams" style="color:red; width:50px" required="" type="number"/>
+    <input id="exams" style="color:red; width:50px" required="" type="number" asp-for="exams" />
     <br />
     <label>Enter your intex grade (e.g. 78):</label>
-    <input id="intex" style="color:red; width:50px" required="" type="number"/>
+    <input id="intex" style="color:red; width:50px" required="" type="number" asp-for="intex" />
     <br />
-    <input id="btn" type="button" value="calculate grade" required="" type="number"/>
+    <input id="btn" type="submit" value="calculate grade" required=""  />
+
+    <div asp-validation-summary="All"></div>
 </form>
 
 <script src="~/js/GradeCalculator.js"></script>

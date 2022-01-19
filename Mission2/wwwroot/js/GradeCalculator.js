@@ -8,27 +8,27 @@ $("#btn").click(function () {
     let exams = $("#exams").val();
     let intex = $("#intex").val();
 
-    if (assignments == "" || assignments > 100) {
-        alert("Assignment grade must be between 0 and 100 ")
-    }
+    //if (assignments == "" || assignments > 100) {
+    //    alert("Assignment grade must be between 0 and 100 ")
+    //}
 
-    if (groupProjects == "" || groupProjects > 100) {
-        alert("Group Projects grade must be between 0 and 100 ")
-    }
+    //if (groupProjects == "" || groupProjects > 100) {
+    //    alert("Group Projects grade must be between 0 and 100 ")
+    //}
 
-    if (quizzes == "" || quizzes > 100) {
-        alert("quizzes grade must be between 0 and 100 ")
-    }
+    //if (quizzes == "" || quizzes > 100) {
+    //    alert("quizzes grade must be between 0 and 100 ")
+    //}
 
-    if (exams == "" || exams > 100) {
-        alert("exams grade must be between 0 and 100 ")
-    }
+    //if (exams == "" || exams > 100) {
+    //    alert("exams grade must be between 0 and 100 ")
+    //}
 
-    if (intex == "" || intex > 100) {
-        alert("Intex grade must be between 0 and 100 ")
-    }
+    //if (intex == "" || intex > 100) {
+    //    alert("Intex grade must be between 0 and 100 ")
+    //}
 
-    else {
+    //else {
 
         //calculate grade and percentage
 
