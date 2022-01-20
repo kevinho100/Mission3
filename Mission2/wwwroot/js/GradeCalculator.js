@@ -8,29 +8,29 @@ $("#btn").click(function () {
     let exams = $("#exams").val();
     let intex = $("#intex").val();
 
-    //if (assignments == "" || assignments > 100) {
-    //    alert("Assignment grade must be between 0 and 100 ")
-    //}
+    if (assignments == "" || assignments > 100) {
+        alert("Assignment grade must be between 0 and 100 ")
+    }
 
-    //if (groupProjects == "" || groupProjects > 100) {
-    //    alert("Group Projects grade must be between 0 and 100 ")
-    //}
+    if (groupProjects == "" || groupProjects > 100) {
+        alert("Group Projects grade must be between 0 and 100 ")
+    }
 
-    //if (quizzes == "" || quizzes > 100) {
-    //    alert("quizzes grade must be between 0 and 100 ")
-    //}
+    if (quizzes == "" || quizzes > 100) {
+        alert("quizzes grade must be between 0 and 100 ")
+    }
 
-    //if (exams == "" || exams > 100) {
-    //    alert("exams grade must be between 0 and 100 ")
-    //}
+    if (exams == "" || exams > 100) {
+        alert("exams grade must be between 0 and 100 ")
+    }
 
-    //if (intex == "" || intex > 100) {
-    //    alert("Intex grade must be between 0 and 100 ")
-    //}
+    if (intex == "" || intex > 100) {
+        alert("Intex grade must be between 0 and 100 ")
+    }
 
-    //else {
+    else {
 
-        //calculate grade and percentage
+            //calculate grade and percentage
 
         let finalgrade = (assignments * 0.55) + (groupProjects * 0.05) + (quizzes * 0.1) +
             (exams * 0.20) + (intex * 0.1);
@@ -77,7 +77,6 @@ $("#btn").click(function () {
             }
         //print out final percentage and grade
 
-            alert("your percentage of the class is " + finalgrade + "% and your final grade is a(n) " + grade);
-        }
+        alert("your percentage of the class is " + finalgrade + "% and your final grade is a(n) " + grade);
+    }
 })
-

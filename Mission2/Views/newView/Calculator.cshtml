@@ -3,11 +3,14 @@
 *@
 @{
     ViewData["Title"] = "Grade Calculator";
+    <script src="~/js/GradeCalculator.js"></script>
 }
 
 @model CalculatorModel;
+
 <head>
     <title>@ViewData["Title"]</title>
+    <script src="~/js/GradeCalculator.js"></script>
 </head>
 <!-- A "Grade Calculator" form that takes as input a percentage scored for each grade
 category listed in the syllabus -->
@@ -17,10 +20,10 @@ category listed in the syllabus -->
     <input id="assignments" style="color:red; width:50px" required="" type="number" asp-for="assignments" />
     <br />
     <label>Enter your Group project grade (e.g. 78):</label>
-    <input id="group" style="color:red; width:50px" required=""  type="number" asp-for="group"/>
+    <input id="group" style="color:red; width:50px" required="" type="number" asp-for="group" />
     <br />
     <label>Enter your Quizzes grade (e.g. 78):</label>
-    <input id="quizzes" style="color:red; width:50px" required="" type="number"asp-for="quizzes" />
+    <input id="quizzes" style="color:red; width:50px" required="" type="number" asp-for="quizzes" />
     <br />
     <label>Enter your Exams grade (e.g. 78):</label>
     <input id="exams" style="color:red; width:50px" required="" type="number" asp-for="exams" />
@@ -28,7 +31,7 @@ category listed in the syllabus -->
     <label>Enter your intex grade (e.g. 78):</label>
     <input id="intex" style="color:red; width:50px" required="" type="number" asp-for="intex" />
     <br />
-    <input id="btn" type="submit" value="calculate grade" required=""  />
+    <input id="btn" type="submit" value="calculate grade" />
 
     <div asp-validation-summary="All"></div>
 </form>

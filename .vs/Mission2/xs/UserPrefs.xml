@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{81CC2241-F0FB-4905-9EB7-332CE69F7E64}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission2/wwwroot/js/GradeCalculator.js">
+    <Files>
+      <File FileName="Mission2/Views/newView/Calculator.cshtml" Line="13" Column="52" />
+      <File FileName="Mission2/wwwroot/js/GradeCalculator.js" Line="37" Column="1" />
+      <File FileName="Mission2/Models/CalculatorModel.cs" Line="1" Column="1" />
+      <File FileName="Mission2/Views/shared/_Layout.cshtml" Line="29" Column="61" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mission2" expanded="True">
+            <Node name="Mission2" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="newView" expanded="True" />
+                <Node name="shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True">
+                  <Node name="GradeCalculator.js" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Mission2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
